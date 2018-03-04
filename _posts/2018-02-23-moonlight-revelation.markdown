@@ -1,6 +1,6 @@
 ---
 title:  "Moonlight Revelation"
-subtitle: "Only lights from space"
+subtitle: "Portal to euphoria"
 author: "Rohit Naidu"
 avatar: "img/authors/wferr.png"
 image: "img/moonlight.jpg"
